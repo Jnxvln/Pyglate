@@ -1,0 +1,46 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# PyInstaller (if you ever bundle the app)
+*.spec
+dist/
+build/
+
+# Pyglet cache
+.pyglet_cache/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Assets — uncomment if you want to exclude large media files
+# assets/audio/
+# assets/images/
